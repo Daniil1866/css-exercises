@@ -1,0 +1,23 @@
+body {
+  font-size: 20px;
+}
+
+.pinkbg {
+  background-color: rgba(255, 60, 60, 0.5);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#one {
+  color: rgb(0, 4, 255);
+  font-size: 36px;
+}
+
+#another {
+  background-color: rgb(2, 231, 2);
+  font-size: 24px;
+  font-weight: bold;
+}
