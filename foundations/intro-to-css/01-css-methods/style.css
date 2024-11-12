@@ -1,0 +1,11 @@
+body {
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+}
+
+div {
+    font-size: 32px;
+    text-align: center;
+    color: white;
+    background-color: red;
+    font-weight: 700;
+}
